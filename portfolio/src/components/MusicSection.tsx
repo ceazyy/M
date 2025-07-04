@@ -94,12 +94,12 @@ const MusicSection = () => {
               {/* Apple Music Embed */}
               <div className="music-embed">
                 <h4 className="text-xl font-semibold mb-4 text-center">Apple Music</h4>
-                <iframe 
-                  allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" 
-                  frameBorder="0" 
-                  height="175" 
-                  style={{ width: '100%', maxWidth: '660px', overflow: 'hidden', borderRadius: '10px' }} 
-                  sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
+                <iframe
+                  allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write"
+                  frameBorder="0"
+                  height="152"
+                  style={{ width: '100%', borderRadius: '12px' }}
+                  sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
                   src={featuredTracks[0].appleMusicEmbed}
                   className="w-full"
                 />
