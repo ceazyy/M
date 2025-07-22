@@ -9,8 +9,8 @@ const Portfolio = () => {
       id: 1,
       title: 'ROT',
       category: 'original',
-      soundcloudUrl: 'https://soundcloud.com/ceazytechno/rot',
-      embedUrl: 'https://soundcloud.com/ceazytechno/rot',
+      soundcloudUrl: 'https://soundcloud.com/ceazytechno/rot-techno',
+      embedUrl: 'https://soundcloud.com/ceazytechno/rot-techno',
       description: 'Original Mix'
     },
     {
@@ -39,11 +39,11 @@ const Portfolio = () => {
     },
     {
       id: 5,
-      title: 'I Adore You',
-      category: 'remix',
-      soundcloudUrl: 'https://soundcloud.com/ceazytechno/i-adore-you-ceazy-remix-hard-techno-free-dl',
-      embedUrl: 'https://soundcloud.com/ceazytechno/i-adore-you-ceazy-remix-hard-techno-free-dl',
-      description: 'Ceazy Remix (Hard Techno)'
+      title: 'Close Your Eyes',
+      category: 'original',
+      soundcloudUrl: 'https://soundcloud.com/ceazytechno/close-your-eyes-hard-techno-mix',
+      embedUrl: 'https://soundcloud.com/ceazytechno/close-your-eyes-hard-techno-mix',
+      description: 'Original Mix'
     }
   ];
 
