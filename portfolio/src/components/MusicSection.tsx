@@ -19,7 +19,7 @@ const MusicSection = () => {
   const soundcloudTracks = [
     {
       title: 'ROT',
-      url: 'https://soundcloud.com/ceazytechno/rot?si=dfb9986ef4cf4e6e8cab77c770c345be&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing',
+      url: 'https://soundcloud.com/ceazytechno/rot-techno?si=d9602a9a295f44079daca1e12f874112&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing',
       embedId: '1901334166',
     },
     {
