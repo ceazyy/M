@@ -33,8 +33,8 @@ const MusicSection = () => {
       embedId: '1901334168',
     },
     {
-      title: 'I Adore You (ceazy remix)',
-      url: 'https://soundcloud.com/ceazytechno/i-adore-you-ceazy-remix-hard-techno-free-dl?si=2041bdb4c41d4036803f6eaa4299dabd&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing',
+      title: 'Close Your Eyes',
+      url: 'https://soundcloud.com/ceazytechno/close-your-eyes-hard-techno-mix?si=a5661d1aba9844f99afb46fbe4b0ff8c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing',
       embedId: '1901334169',
     },
   ];
