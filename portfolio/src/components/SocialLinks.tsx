@@ -4,7 +4,7 @@ const SocialLinks = () => {
   const socialLinks = [
     {
       name: 'SoundCloud',
-      url: 'https://soundcloud.com/ceazytechno/rot-techno?si=fd929a62aa3b4b30820d6bbfa5bbddbd&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing',
+      url: 'https://soundcloud.com/ceazytechno',
       icon: (
         <svg className="w-8 h-8" fill="currentColor" viewBox="0 0 24 24">
           <path d="M12 12.713l-11.985-9.713h23.97l-11.985 9.713zm0 2.574l-12-9.725v15.438h24v-15.438l-12 9.725z"/>
